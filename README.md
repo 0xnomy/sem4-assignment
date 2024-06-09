@@ -7,6 +7,6 @@ This repository contains assignments and class tasks from my 4th semester, mainl
 - **Artificial Intelligence**
 - **Theory of Data Science**
 
-These are unstructured, you can find material for some and some might be missing as I attempted most of them either on Kaggle or on Goolge Colab
+These are unstructured, you can find material for some and some might be missing as I attempted most of them either on Kaggle or on Colab
 
 https://www.kaggle.com/naumanalimurad
